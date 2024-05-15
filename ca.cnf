@@ -1,0 +1,28 @@
+[req]
+distinguished_name = steam_cdn_redir
+x509_extensions = v3_ca
+prompt = no
+
+[steam_cdn_redir]
+CN = Steam-CDN-Redir
+
+[v3_ca]
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = *.steamcontent.com
+DNS.2 = *.steamchina.com
+DNS.3 = *.steampowered.com.8686c.com
+DNS.4 = *.steam.clngaa.com
+DNS.5 = *.steamcontent.tnkjmec.com
+DNS.6 = *.pphimalayanrt.com
+DNS.7 = *.steam-dns.top.comcast.net
+DNS.8 = steam.eca.qtlglb.com
+DNS.9 = steam.naeu.qtlglb.com
+DNS.10 = steam.ru.qtlglb.com
+DNS.11 = *.akamaized.net
+DNS.12 = *.ssl.hwcdn.net
+DNS.13 = steam.cdn.on.net
+DNS.14 = steam.cdn.orcon.net.nz
+DNS.15 = steam.cdn.slingshot.co.nz
+DNS.16 = steam.cdn.webra.ru

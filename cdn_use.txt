@@ -1,0 +1,9 @@
+##白山云
+#st.dl.eccdnx.com
+#st.dl.bscstorage.net
+
+##新流云(原金山云)
+dl.steam.clngaa.com
+
+##阿里云
+#xz.pphimalayanrt.com
