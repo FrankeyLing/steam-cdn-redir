@@ -3,7 +3,7 @@
 
 
 羽翼城大佬的同类软件以及失效无法使用一段时间了，一直没有相关软件添加这个功能，所以自己简单地实现一下这个功能  
-由于本人并非计算机专业，对Python了解较少，对Javascript完全不了解，所以代码实现的方式可能很不规范，还请见谅，这个程序算是抛砖引玉，希望后续有大佬开发更完整的软件  
+由于本人并非计算机专业，对Python了解不完全，对Javascript完全不了解，所以代码实现的方式可能很不规范，还请见谅，这个程序算是抛砖引玉，希望后续有大佬开发更完整的软件  
 CDN token的获取基于[DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user)项目
 
 
