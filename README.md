@@ -7,6 +7,9 @@
 CDN token的获取基于[DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user)项目
 
 
+# 下载
+[github](https://github.com/FrankeyLing/steam-cdn-redir/releases/download/0.1/steam_cdn_redir.zip)&nbsp;&nbsp;[百度网盘](https://pan.baidu.com/s/1vH0St1gr5Ww3JP5kmfWNvw?pwd=javj)
+
 # 使用方法
 由于steam的CDN用了https，所以首先需要安装CA证书，可直接双击安装，请把证书放在受信任的根证书颁发机构下  
 ![受信任的根证书颁发机构](readme_images/crt.png)
